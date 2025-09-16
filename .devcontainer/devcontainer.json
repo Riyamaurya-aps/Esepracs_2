@@ -1,0 +1,9 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/jsburckhardt/devcontainer-features/notation:1": {},
+		"ghcr.io/devcontainers-extra/features/node-asdf:0": {},
+		"ghcr.io/davzucky/devcontainers-features-wolfi/node:1": {},
+		"ghcr.io/roul/devcontainer-features/mise-node:1": {}
+	}
+}
